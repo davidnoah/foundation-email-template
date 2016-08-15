@@ -1451,6 +1451,11 @@ table.container.float-center tbody tr {
   color: #7d8586;
   padding-top: 10px; }
 
+.body-text:hover {
+  cursor: pointer;
+  color: black;
+}
+
 .content-container {
   display: flex;
   justify-content: space-around;
